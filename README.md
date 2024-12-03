@@ -8,7 +8,6 @@ also if we click conntact section the page will go the conatact page . If we cli
 
 ```
 install nodejs
-
 ```
 commoand to clone this project:
 
