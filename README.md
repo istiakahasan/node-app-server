@@ -13,5 +13,4 @@ commoand to clone this project:
 
 ```
 git clone <url>
-
 ```
